@@ -56,8 +56,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=budd1stt&show_icons=true&hide_border=true&title_color=E10600&icon_color=FFC72C&text_color=E5E7EB&bg_color=0A1628&ring_color=E10600" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=budd1stt&layout=compact&hide_border=true&title_color=E10600&text_color=E5E7EB&bg_color=0A1628&lang_count=8" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=budd1stt&theme=dark&hide_border=true&background=0A1628&ring=E10600&fire=FFC72C&currStreakLabel=FFC72C&sideLabels=E5E7EB&dates=E5E7EB" alt="Streak Stats" />
 
 </div>
